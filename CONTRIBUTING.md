@@ -41,7 +41,7 @@ First of all, this is a JavaScript project that's distributed on [npmjs.org](htt
 therefore uses JavaScript tooling based on [Node.js](https://nodejs.org/) with dependencies from npm.
 You're going to need to have those things installed to contribute to this project.
 
-1. Fork the repo
+1. Fork the repository
 2. Clone your fork
 3. Create a branch
 4. Run `npm install`
